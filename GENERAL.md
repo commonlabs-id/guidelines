@@ -24,7 +24,15 @@ Volunteers can also elect themselves to be the point person of certain projects.
 
 ## Licensing
 
-All projects within the blvd group should be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). When referring to the copyright owner, "commonlabs ID" should be used.
+All projects within the blvd group should be licensed under the [Apache 2.0 licence](https://www.apache.org/licenses/LICENSE-2.0). When referring to the copyright owner, "commonlabs ID" should be used.
+
+We offer leniency for smaller libraries, allowing them to use the [MIT licence](https://opensource.org/licenses/MIT)
+
+### Note for existing projects
+
+If you have existing projects that were created before the formation of commonlabs ID, or existing projects that are inducted into the commonlabs ID umbrella, feel free to continue using your existing licences. However, if it's a project with a larger scope than a library, we **strongly urge** you to replace your licences to the Apache licence within a year of being included in the commonlabs ID umbrella.
+
+You may also keep any existing copyright names, regardless of your choice of licence.
 
 ## Branding
 
