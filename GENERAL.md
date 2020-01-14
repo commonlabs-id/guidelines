@@ -28,6 +28,12 @@ All projects within commonlabs ID should be licensed under the [Apache 2.0 licen
 
 We offer leniency for smaller libraries, allowing them to use the [MIT licence](https://opensource.org/licenses/MIT)
 
+### Note for existing projects
+
+If you have existing projects that were created before the formation of commonlabs ID, or existing projects that are inducted into the commonlabs ID umbrella, feel free to continue using your existing licences. However, if it's a project with a larger scope than a library, we **strongly urge** you to replace your licences to the Apache licence within a year of being included in the commonlabs ID umbrella.
+
+You may also keep any existing copyright names, regardless of your choice of licence.
+
 ## Monetising
 
 commonlabs ID is non-profit, and we're [100% crowd-funded](https://karyakarsa.com/commonlabs). Any money earned by all commonlabs projects must go entirely back into the development and maintainance of existing commonlabs projects. Money earned enters a pool where it may be applied to any project which requires it.
@@ -39,12 +45,6 @@ All projects must not, **under any circumstances**, display advertisements.
 We also don't encourage projects to include analytics and tracking, but if they do, they must include so in an ethical manner (i.e. respecting "Do Not Track" requests).
 
 > We also recommend using an ethical, self-hosted analytics tool like [Fathom](https://usefathom.com/) if you would like to include analytics.
-
-### Note for existing projects
-
-If you have existing projects that were created before the formation of commonlabs ID, or existing projects that are inducted into the commonlabs ID umbrella, feel free to continue using your existing licences. However, if it's a project with a larger scope than a library, we **strongly urge** you to replace your licences to the Apache licence within a year of being included in the commonlabs ID umbrella.
-
-You may also keep any existing copyright names, regardless of your choice of licence.
 
 ## Branding
 
