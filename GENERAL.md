@@ -16,11 +16,11 @@ Failure to comply by any of the standards outlined here will result in repercuss
 
 Projects within commonlabs ID have a wide variety of contributors from all backgrounds.
 
-### Volunteers
+### Regular contributors
 
-Regular contributors to any project, be it code or non-code (e.g. documentation), are eligible to become "volunteers", and will earn the Volunteers role on the commonlabs ID Discord server, as well as membership under the teams which they contribute to. This will be vetted by the staff of commonlabs ID.
+Regular contributors to any project, be it code or non-code (e.g. documentation), earn the "Regular Contributors" role on the commonlabs ID Discord server, as well as an invitation to the commonlabs GitHub org under the teams which they contribute to. This will be vetted by the staff of commonlabs ID.
 
-Volunteers can also elect themselves to be the point person of certain projects. This will earn them a specialised role on the Discord server.
+Regular contributors can also elect themselves to be the point person of certain projects. This will earn them a specialised role on the Discord server.
 
 ## Licensing
 
