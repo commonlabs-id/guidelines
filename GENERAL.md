@@ -22,6 +22,14 @@ Regular contributors to any project, be it code or non-code (e.g. documentation)
 
 Regular contributors can also elect themselves to be the point person of certain projects. This will earn them a specialised role on the Discord server.
 
+## Repositories
+
+### Private repositories
+
+If you're not sure about making a project public, it's okay to keep said project private within the commonlabs ID org, as long as there are plans to make it public within 3 months.
+
+> Please make sure that you're not leaving any private information (e.g. secrets) before making the repository public! An easy way to make sure you're not leaving anything behind is to squash all previous commits. For a more advanced method, see this [GitHub Help doc](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/removing-sensitive-data-from-a-repository).
+
 ## Licensing
 
 All projects within commonlabs ID should be licensed under the [Apache 2.0 licence](https://www.apache.org/licenses/LICENSE-2.0). When referring to the copyright owner, "commonlabs ID" should be used.
