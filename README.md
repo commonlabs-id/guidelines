@@ -9,3 +9,7 @@ Welcome! We're an Indonesian-based open-source collective, created to solve loca
 ## Guidelines
 
 - [General Guidelines](GENERAL.md)
+
+## Coding Styleguide
+
+- [TypeScript Styleguide](./languages/typescript/README.md)
